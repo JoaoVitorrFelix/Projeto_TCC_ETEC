@@ -1,0 +1,155 @@
+.gradient-custom-2 {
+    /* fallback for old browsers */
+    background: #3e8eca;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgb(0, 72, 167), rgb(95, 176, 168));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right,  rgb(0, 72, 167), rgb(95, 176, 168));
+    
+    }
+
+    .btndelete{
+        background-color: #f84f4f
+     }
+
+
+      /* SweetAlert */
+
+      .btn-bd:hover {
+        --bd-blue-bg: #24F3D5;
+        --bd-blue-rgb: 112.520718, 44.062154, 249.437846;
+      
+        --bs-btn-font-weight: 600;
+        --bs-btn-color: var(--bs-black);
+        --bs-btn-bg: var(--bd-blue-bg);
+        --bs-btn-border-color: var(--bs-black);
+        --bs-btn-hover-color: #24F3D5;
+        --bs-btn-hover-bg: #24F3D5;
+        --bs-btn-hover-border-color: black;
+        --bs-btn-focus-shadow-rgb: var(--bd-blue-rgb);
+        --bs-btn-active-color: var(--bs-btn-hover-color);
+        --bs-btn-active-bg: #24F3D5;
+        --bs-btn-active-color: rgb(0, 0, 0);
+        --bs-btn-active-border-color: black;
+      }
+      
+      .drop_item {
+        --bs-dropdown-link-active-bg: #3f3e3e;
+        --bs-dropdown-link-hover-bg: #C0C0C0;
+        --bs-dropdown-link-hover-color: #000;
+      }
+      
+
+      
+      [data-bs-theme=dark] .swal-modal,
+      [data-bs-theme=dark] .swal-icon--success:after,
+      [data-bs-theme=dark] .swal-icon--success:before,
+      [data-bs-theme=dark] .swal-icon--success__hide-corners {
+        background-color: #222222;
+      }
+      
+      .swal-icon--success__line--long,
+      .swal-icon--success__line {
+        background-color: #54f361;
+      }
+      
+      .swal-icon--success__ring {
+        border: 4px solid hsla(100, 100%, 65%, .2);
+      }
+      
+      [data-bs-theme=dark] .swal-text {
+        color: #FFF;
+      }
+      
+      .swal-button {
+        background: linear-gradient(to right, rgb(42, 104, 185), rgb(81, 209, 196));
+      }
+      
+      .swal-button:not([disabled]):hover {
+        background: linear-gradient(to right, rgb(42, 104, 185), rgb(81, 209, 196));
+      }
+      
+      /* scrollbar */
+      
+      ::-webkit-scrollbar {
+        width: 10px;
+        height: 10px;
+        background-color: #00ff3700;
+      }
+      
+      ::-webkit-scrollbar-thumb {
+        background-color: #1875bc;
+        border-radius: 20px;
+      }
+      
+      ::-webkit-scrollbar-thumb:hover {
+        background-color: #155484;
+      }
+      
+      ::-webkit-scrollbar-track {
+        background-color: #00000000;
+        border-radius: 5px;
+      }
+      
+      ::-webkit-scrollbar-track:hover {
+        background-color: #320ac400;
+      }
+      
+      .swal2-icon.swal2-info.swal2-icon-show {
+        color: #000;
+        border-color: #fff;
+        background-image: linear-gradient(#015EED, #24F3D5);
+      }
+      
+      [data-bs-theme=dark] .swal2-popup {
+        background-color: #343434;
+      }
+      
+      [data-bs-theme=dark] .swal2-title,
+      [data-bs-theme=dark] .swal2-html-container {
+        color: #fff;
+      }
+      
+      [data-bs-theme=dark] .swal2-icon.swal2-info {
+        color: #fff;
+        border-color: #343434;
+        background-image: linear-gradient(#015EED, #24F3D5);
+      }
+      
+      [data-bs-theme=dark] .swal2-styled.swal2-confirm {
+        background-image: linear-gradient(#24F3D5, #015EED);
+        color: #fff;
+      }
+      
+      button.swal2-styled.swal2-confirm {
+        background-image: linear-gradient(#24F3D5, #015EED);
+        color: #fff;
+      }
+      
+      .block {
+        -webkit-user-select: none;
+        /* Safari */
+        -moz-user-select: none;
+        /* Firefox */
+        -ms-user-select: none;
+        /* IE10+/Edge */
+        user-select: none;
+      }
+
+      .card-button{
+        z-index: 99999;
+      }
+
+      .button-effect {
+        transition: all 0.5s;
+        cursor: pointer;
+    }
+    
+      .button-effect:hover {
+        transform: scale(105%);
+        margin-left: -10px;
+        -webkit-filter: drop-shadow(15px 10px 5px rgba(0, 0, 0, 0.5));
+        filter: drop-shadow(15px 10px 5px rgba(0, 0, 0, 0.5));
+    }

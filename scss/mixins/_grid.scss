@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v3">
+  <assemblyIdentity name="Microsoft-Windows-Server-Features-Package" version="10.0.19041.1503" processorArchitecture="amd64" language="hr-HR" publicKeyToken="31bf3856ad364e35" buildType="release" />
+  <package identifier="Microsoft-Windows-Server-Features-Package" releaseType="Language Pack">
+    <parent integrate="separate">
+      <assemblyIdentity name="Microsoft-Windows-Server-Features-Package" version="10.0.19041.1503" processorArchitecture="amd64" language="neutral" publicKeyToken="31bf3856ad364e35" buildType="release" />
+    </parent>
+    <update name="8ED41EC508F643C10D280685990A2864D38A57742F7C6D30D101F9B8A798871E">
+      <component>
+        <assemblyIdentity name="microsoft-windows-server-features-deployment0" version="10.0.19041.1503" processorArchitecture="amd64" language="hr-HR" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+      </component>
+    </update>
+    <update name="7BA8464B273B7F0CCCBB137DD2D1AC99E07B6E45339722D7A8B4BAFBCE62E9BF">
+      <component>
+        <assemblyIdentity name="usbcciddriver.inf-LanguagePack" version="10.0.19041.1" processorArchitecture="amd64" language="hr-HR" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+      </component>
+    </update>
+    <update name="0144EAED2DA998BE1C66E2B45685FF593AF387584142C7A6E354434068C94854">
+      <component>
+        <assemblyIdentity name="usbser.inf-LanguagePack" version="10.0.19041.1" processorArchitecture="amd64" language="hr-HR" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+      </component>
+    </update>
+    <update name="6608935EA7217FC674376F01B093049E8A883652FF7B2279739B24306783C159">
+      <component>
+        <assemblyIdentity name="bthpan.inf-LanguagePack" version="10.0.19041.1" processorArchitecture="amd64" language="hr-HR" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+      </component>
+    </update>
+    <update name="5134F4AB05D1F456759FF2FE00317CEECCD9DAC6E9AC80F1791E05DC5DF938F4">
+      <component>
+        <assemblyIdentity name="urschipidea.inf-LanguagePack" version="10.0.19041.1" processorArchitecture="amd64" language="hr-HR" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+      </component>
+    </update>
+    <update name="1CB4FC7FD34E4A8CEE6D7377276D0B246E56B072F3210CE78575BCBAC72CF158">
+      <component>
+        <assemblyIdentity name="urssynopsys.inf-LanguagePack" version="10.0.19041.1" processorArchitecture="amd64" language="hr-HR" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+      </component>
+    </update>
+    <update name="7E9B779F0D0DA906230F0EEBE5034980C609B9B9C3C3F15381250703CB92CDD9">
+      <component>
+        <assemblyIdentity name="genericusbfn.inf-LanguagePack" version="10.0.19041.1" processorArchitecture="amd64" language="hr-HR" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+      </component>
+    </update>
+    <update name="7A5128A2C63633E3AD67B4AB26103CC4E0EBC09485A7E931EC8C49FE1D17419C">
+      <component>
+        <assemblyIdentity name="ufxchipidea.inf-LanguagePack" version="10.0.19041.1" processorArchitecture="amd64" language="hr-HR" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+      </component>
+    </update>
+    <update name="531F3E8D4F97BF1EB5E5F2CEB0F70584193A1FC5F3826D1F5EB54599CED82549">
+      <component>
+        <assemblyIdentity name="ufxsynopsys.inf-LanguagePack" version="10.0.19041.1" processorArchitecture="amd64" language="hr-HR" publicKeyToken="31bf3856ad364e35" buildType="release" versionScope="nonSxS" />
+      </component>
+    </update>
+    <update name="3798ED24539A639A6CA830ACA7217AB7C8F319AAF5BD759750971A7DEE839A8D">
+      <package integrate="hidden">
+        <assemblyIdentity name="Microsoft-Windows-Server-Features-Package00" version="10.0.19041.1503" processorArchitecture="amd64" language="hr-HR" publicKeyToken="31bf3856ad364e35" buildType="release" />
+      </package>
+    </update>
+    <update name="A325464007B07FD6EB597A91D4380D0A57A17BD0A39DFD7D3CD3BE9C2BB8B163">
+      <package integrate="hidden">
+        <assemblyIdentity name="Microsoft-Windows-Server-Features-Package01" version="10.0.19041.1503" processorArchitecture="amd64" language="hr-HR" publicKeyToken="31bf3856ad364e35" buildType="release" />
+      </package>
+    </update>
+    <update name="074AC9264867A1D7CA56572468C2657BB88AFD857F7C7654946CE27E27D6B145">
+      <package integrate="hidden">
+        <asse

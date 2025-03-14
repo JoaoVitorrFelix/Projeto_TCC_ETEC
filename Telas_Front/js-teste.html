@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    li
+    <title>Document</title>
+</head>
+
+<body>
+
+
+    <script>
+
+        function calcularmedia(numeros) {
+            var soma = 0;
+            for (var i = 0; i < numeros.length; i++){
+                soma += numeros[i];
+            }
+            var media = soma / numeros.length;
+            return media;
+        }
+
+
+        var numeros = [5, 8, 12, 6, 9];
+        var mediaCalculada = calcularmedia(numeros);
+        alert("A média dos numeros é: " + mediaCalculada);
+
+
+    </script>
+
+</body>
+
+</html>
