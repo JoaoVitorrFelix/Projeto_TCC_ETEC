@@ -1,0 +1,9 @@
+Este é o projeto de conclusão de curso em Desenvolvimento de Sistemas (DS), apresentado na ETEC no ano de 2023. O projeto consiste no desenvolvimento de um site educativo focado na Lei Geral de Proteção de Dados (LGPD), com o objetivo de aumentar a conscientização sobre a importância da proteção de dados pessoais no contexto digital.
+
+A plataforma foi criada para fornecer aos usuários informações claras e acessíveis sobre os princípios e direitos definidos pela LGPD, além de destacar as obrigações que as organizações devem cumprir em relação ao tratamento de dados pessoais. Para facilitar o aprendizado, o site foi estruturado de maneira interativa e didática, com seções dedicadas aos principais pontos da legislação, como: a definição de dados pessoais, os direitos dos titulares, as bases legais para o tratamento de dados e as responsabilidades dos controladores e operadores.
+
+Como um diferencial, o projeto inclui a implementação de um quiz interativo ao final do conteúdo. Esse quiz tem o objetivo de reforçar os conceitos aprendidos, estimulando os usuários a testarem seus conhecimentos sobre a LGPD de uma forma prática e envolvente. As perguntas do quiz foram cuidadosamente elaboradas para cobrir os aspectos mais importantes da legislação, desafiando os usuários a refletirem sobre sua aplicação no cotidiano.
+
+Além disso, o sistema foi projetado para gerar um certificado de conclusão ao final do quiz, o que agrega um valor adicional ao aprendizado. O certificado é emitido automaticamente para aqueles que completarem o quiz com sucesso, como forma de reconhecer o esforço e o conhecimento adquirido durante a interação com o site.
+
+Esse projeto não apenas proporciona informações sobre a LGPD, mas também oferece uma experiência educativa envolvente, promovendo uma maior compreensão sobre a legislação e estimulando a adoção de boas práticas em relação à proteção de dados pessoais. 
